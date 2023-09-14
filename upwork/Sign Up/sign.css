@@ -1,0 +1,50 @@
+.header{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.card-title{
+    font-size: 30px !important;
+}
+
+
+
+.cards{
+    display: inline-block !important;
+    /* display: flex !important; */
+    justify-content: center !important;
+    align-items: center !important;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 350px;
+    padding: 30px;
+    width: 50%;
+    height: 50%; 
+    box-sizing: border-box;
+    
+}
+
+
+.container{
+ border: 1px solid rgb(156, 150, 150);
+ border-radius: 10px;
+ height: 100%;
+}
+
+.card-text{
+   font-size:larger !important;
+}
+
+.btn{
+    clear: both;
+    border-radius: 30px;
+}
+
+.log{
+    text-decoration: none;
+    color: green;
+}
+
+p{
+    text-align: center;
+}

@@ -1,0 +1,110 @@
+.header{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cards{
+    display: inline-block !important;
+    /* display: flex !important; */
+    justify-content: center !important;
+    align-items: center !important;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 400px;
+    padding: 30px;
+    width: 40%;
+    height: 50%; 
+    box-sizing: border-box;
+    
+}
+
+.container{
+    border: 1px solid rgb(156, 150, 150);
+    border-radius: 10px;
+    height: 100%;
+   }
+
+   h5{
+    text-align: center;
+    font-size: 25px;
+   }
+
+   #input{
+    background-image: url('https://static.thenounproject.com/png/1081856-200.png');
+    background-size: 25px;
+    background-repeat: no-repeat;
+    padding-left: 22px;
+    display: flex;
+    align-items: center;
+    margin:auto;
+    width: 70%;
+    border-radius: 5px;
+   }
+
+   button{
+    padding-left: 70px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+    width: 70%;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    
+   }
+
+   .btnn{
+    background-image: url('https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png');
+    background-color: rgb(9, 204, 194);
+    background-size: 35px;
+    background-repeat: no-repeat;
+   /* background-position: 50px; */
+   }
+
+   .btn{
+
+    padding-left: 90px;
+    display: flex; 
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+   }
+
+   #apple{
+    background-image: url('https://images.crowdspring.com/blog/wp-content/uploads/2022/08/18131304/apple_logo_black.svg_.png');
+    background-size: 50px;
+    background-repeat: no-repeat;
+   background-position: 50px;
+   }
+  
+   p{
+    clear: both;
+    text-align: center;
+   }
+
+   .containers{
+    background-color: green;
+    width: 100%;
+    height: 50%;
+    padding: 3%;
+    text-align: center;
+
+   }
+
+   #but{
+    padding-left: 70px;
+    clear: both;
+    width: 40%;
+    text-align: center !important;
+   }
+
+   a{
+    text-decoration: none;
+    color: green;
+   }
+
+   btn:hover{
+    color: white !important;
+   }
